@@ -21,7 +21,7 @@ The dataset contains information about used cars including:
 car-price-prediction/
 │
 ├── data_utils.py        # Data preprocessing utilities
-├── model.py            # Neural network model implementation
+├── neural_network.py            # Neural network model implementation
 ├── requirements.txt    # Project dependencies
 └── demo.ipynb         # Jupyter notebook with usage example
 ```
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/your-username/Neural-Network.git
 cd car-price-prediction
 ```
 
